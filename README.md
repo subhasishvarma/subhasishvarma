@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on Video Editing
 - 📫 How to reach me...through my instagram :- @subhasish_varma_09
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact:  My code doesn’t always run,  
-> but when it does... I have no idea why.
+- ⚡ Fun fact:  My code doesn’t always run, but when it does... I have no idea why.
 
 <!---
 subhasishvarma/subhasishvarma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
